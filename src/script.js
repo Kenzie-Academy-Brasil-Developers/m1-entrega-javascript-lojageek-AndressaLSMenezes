@@ -1,31 +1,31 @@
 let boneco = [
     {
-        img  :"/assets/img/actions/animewoman.jpg",
+        img  :"./assets/img/actions/animewoman.jpg",
         name :'Anime Woman',
         valor:'2000'
     },
     {
-        img  :"/assets/img/actions/dragonballpersonagem.jpg",
+        img  :"./assets/img/actions/dragonballpersonagem.jpg",
         name :'Personagem de Dragon Ball',
         valor: '2000'
     },
     {
-        img  :"/assets/img/actions/starwarspersonagem.jpg",
+        img  :"./assets/img/actions/starwarspersonagem.jpg",
         name :'Mini Yoda',
         valor: '2000'
     },
     {
-        img  :"/assets/img/actions/animewoman.jpg",
+        img  :"./assets/img/actions/animewoman.jpg",
         name :'Anime Woman',
         valor:'2000'
     },
     {
-        img  :"/assets/img/actions/dragonballpersonagem.jpg",
+        img  :"./assets/img/actions/dragonballpersonagem.jpg",
         name :'Personagem de Dragon Ball',
         valor: '2000'
     },
     {
-        img  :"/assets/img/actions/starwarspersonagem.jpg",
+        img  :"./assets/img/actions/starwarspersonagem.jpg",
         name :'Mini Yoda',
         valor: '2000'
     }
@@ -33,32 +33,32 @@ let boneco = [
 
 let imagem = [
     {
-        img  :"/assets/img/painting/clock.jpg",
+        img  :"./assets/img/painting/clock.jpg",
         name :'Relogio',
         valor: '1000'
     },
     {
-        img  :"/assets/img/painting/gamepad.jpg",
+        img  :"./assets/img/painting/gamepad.jpg",
         name :'Desenho',
         valor: '2000'
     },
     {
-        img  :"/assets/img/painting/personagem.jpg",
+        img  :"./assets/img/painting/personagem.jpg",
         name :'Homem de Lata',
         valor: '2000'
     },
     {
-        img  :"/assets/img/painting/clock.jpg",
+        img  :"./assets/img/painting/clock.jpg",
         name :'Relogio',
         valor: '1000'
     },
     {
-        img  :"/assets/img/painting/gamepad.jpg",
+        img  :"./assets/img/painting/gamepad.jpg",
         name :'Desenho',
         valor: '2000'
     },
     {
-        img  :"/assets/img/painting/personagem.jpg",
+        img  :"./assets/img/painting/personagem.jpg",
         name :'Homem de Lata',
         valor: '2000'
     }
